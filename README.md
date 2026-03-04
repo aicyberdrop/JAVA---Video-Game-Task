@@ -1,9 +1,9 @@
-###JAVA Video Game Task
+### JAVA Video Game Task
 
 This project was created in Java within the program, "Proccessing". This project had solidified my computing foundations and allowed me to create a project that met the requirements but also exceeded by recieving a 100% mark. Highlights within this tasks were the randomized trees which were generated in real time and created new tree structures as the screen navigated down. The generation would create new trees that would like differing sizes and width to give the illusion of movement.
 
 
-#The requirements and assessibility of the project is listed below:
+# The requirements and assessibility of the project is listed below:
 
 ```
 Module 1: Foundations of Programming
